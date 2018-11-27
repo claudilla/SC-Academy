@@ -30,18 +30,18 @@
         <sys_created_by>claudia.cruz</sys_created_by>
         <sys_created_on>2018-11-27 18:18:40</sys_created_on>
         <sys_id>8a516315dbcae38005cfd4f3ce96192a</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Academy Hello World</sys_name>
         <sys_package display_value="Claudia Training" source="x_snc_claudia_trai">db6c1f5ddb8ae38005cfd4f3ce9619f1</sys_package>
         <sys_policy/>
         <sys_scope display_value="Claudia Training">db6c1f5ddb8ae38005cfd4f3ce9619f1</sys_scope>
         <sys_update_name>sp_widget_8a516315dbcae38005cfd4f3ce96192a</sys_update_name>
         <sys_updated_by>claudia.cruz</sys_updated_by>
-        <sys_updated_on>2018-11-27 18:28:51</sys_updated_on>
+        <sys_updated_on>2018-11-27 18:52:00</sys_updated_on>
         <template><![CDATA[<div>
 <!-- your widget template -->
   <h1>
-    {{c.options.greeting}} World
+    {{c.options.greeting}} World!
   </h1>
 </div>]]></template>
     </sp_widget>
